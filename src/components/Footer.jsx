@@ -7,6 +7,7 @@ function Footer() {
           <a
             className='grey-text text-lighten-4 right'
             href='https://github.com/emberNash/reactShop'
+            target={'_blank'}
           >
             Repo
           </a>
